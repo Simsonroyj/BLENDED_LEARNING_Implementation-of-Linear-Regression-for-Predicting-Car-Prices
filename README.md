@@ -23,6 +23,9 @@ RegisterNumber:
 ```
 
 ## Output:
+
+<img width="1426" height="696" alt="Screenshot 2026-02-04 090616" src="https://github.com/user-attachments/assets/859f31fe-9de9-4d3f-9485-168154d5bfef" />
+
 <img width="1425" height="435" alt="Screenshot 2026-02-04 090833" src="https://github.com/user-attachments/assets/83a15aa9-e68b-4c6c-b456-dcbef84fa540" />
 
 <img width="1423" height="557" alt="Screenshot 2026-02-04 090903" src="https://github.com/user-attachments/assets/dbc65d01-a2ec-4e67-a5ea-a86cfa62a3bd" />
