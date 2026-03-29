@@ -8,10 +8,16 @@ To write a program to predict car prices using a linear regression model and tes
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Import Libraries: Bring in essential libraries such as pandas, numpy, matplotlib, and sklearn.
+2. Load Dataset: Import the dataset containing car prices along with relevant features.
+3. Data Preprocessing: Manage missing data and select key features for the model, if required.
+4. Split Data: Divide the dataset into training and testing subsets.
+5. Train Model: Build a linear regression model and train it using the training data.
+6. Make Predictions: Apply the model to predict outcomes for the test set.
+7. Evaluate Model: Measure the model's performance using metrics like R² score, Mean Absolute Error (MAE), etc.
+8. Check Assumptions: Plot residuals to verify assumptions like homoscedasticity, normality, and linearity.
+9. Output Results: Present the predictions and evaluation metrics.
 
 ## Program:
 ```
